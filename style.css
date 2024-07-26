@@ -94,7 +94,7 @@ margin-bottom: 25px;
 
 .books-list {
     /* Стили для нумерованного списка во второй секции */
-    padding-left: 20px;
+    padding: 0 20px;
     font-weight: 400;
 font-size: 16px;
 }

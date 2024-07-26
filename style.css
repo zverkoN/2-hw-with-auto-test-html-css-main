@@ -70,11 +70,11 @@ select {
     padding: 9px 12px 8px;
     font-weight: 400;
     font-size: 16px;
-
+    
     appearance: none;
     background-image: url(./assets/ep_arrow-down.svg);
     background-repeat: no-repeat;
-    background-position: right 0 top 50%;
+    background-position: right 12px top 50%;
 }
 
 .section-title {
